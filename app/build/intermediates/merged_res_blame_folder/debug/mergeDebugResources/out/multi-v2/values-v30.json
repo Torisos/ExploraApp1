@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "me.nicolasduarte.exploraapp-mergeDebugResources-42:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\cisco\\.gradle\\caches\\8.13\\transforms\\bd5b4ea1dd1ca018868b24042a96e327\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
