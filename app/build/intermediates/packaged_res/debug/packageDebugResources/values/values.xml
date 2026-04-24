@@ -8,5 +8,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">ExploraApp</string>
+    <string name="gcm_defaultSenderId" translatable="false">746397418210</string>
+    <string name="google_api_key" translatable="false">AIzaSyDc3thYNmxZFTpyNx6gCkCedbvTVa-w-i4</string>
+    <string name="google_app_id" translatable="false">1:746397418210:android:0dbd2990e75cb505d154bb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDc3thYNmxZFTpyNx6gCkCedbvTVa-w-i4</string>
+    <string name="google_storage_bucket" translatable="false">explora-app-b0f07.firebasestorage.app</string>
+    <string name="project_id" translatable="false">explora-app-b0f07</string>
     <style name="Theme.ExploraApp" parent="android:Theme.Material.Light.NoActionBar"/>
 </resources>

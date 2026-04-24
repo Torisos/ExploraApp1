@@ -1,66 +1,66 @@
 [
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/mipmap-anydpi/ic_launcher.xml"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/xml_backup_rules.xml.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/xml/backup_rules.xml"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/mipmap-anydpi/ic_launcher.xml"
     },
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/mipmap-anydpi/ic_launcher_round.xml"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/drawable_ic_launcher_background.xml.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/drawable/ic_launcher_background.xml"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/mipmap-anydpi/ic_launcher_round.xml"
     },
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/drawable/ic_launcher_foreground.xml"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/xml_data_extraction_rules.xml.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/xml/data_extraction_rules.xml"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/xml_data_extraction_rules.xml.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "me.nicolasduarte.exploraapp-debug-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "me.nicolasduarte.exploraapp-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "me.nicolasduarte.exploraapp-debug-53:/xml_backup_rules.xml.flat",
+        "source": "me.nicolasduarte.exploraapp-main-55:/xml/backup_rules.xml"
     }
 ]

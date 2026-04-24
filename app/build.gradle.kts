@@ -60,9 +60,13 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 
     // LIBRERIA PARA LA NAVEGACION
-    val nav_version = "2.9.7"
 
-    implementation("androidx.navigation:navigation-compose:$nav_version")
+
+    implementation("androidx.navigation:navigation-compose:2.9.7")
 
     // Firebase
-    implementation(libs.firebase.bom)}
+    implementation(libs.firebase.bom)
+    implementation(libs.firebase.auth)
+
+
+}
