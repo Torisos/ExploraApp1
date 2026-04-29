@@ -4,7 +4,7 @@
             "outputFile": "me.nicolasduarte.exploraapp-mergeDebugResources-51:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\cisco\\.gradle\\caches\\8.13\\transforms\\6a94a30dc259dbbe5531a43a0d36cc5b\\transformed\\credentials-play-services-auth-1.2.0-rc01\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\nicol\\.gradle\\caches\\8.13\\transforms\\6a94a30dc259dbbe5531a43a0d36cc5b\\transformed\\credentials-play-services-auth-1.2.0-rc01\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
