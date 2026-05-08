@@ -14,6 +14,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import me.nicolasduarte.exploraapp.ui.elements.AddTouristicPlaceScreen
+import me.nicolasduarte.exploraapp.ui.elements.RegisterScreen
 import me.nicolasduarte.exploraapp.ui.theme.ExploraAppTheme
 
 class MainActivity : ComponentActivity() {
@@ -22,6 +24,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             navigationApp()
+
             }
         }
     }

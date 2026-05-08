@@ -8,6 +8,10 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.google.firebase.Firebase
 import com.google.firebase.auth.auth
+import me.nicolasduarte.exploraapp.ui.elements.HomeScreen
+import me.nicolasduarte.exploraapp.ui.elements.LoginScreen
+import me.nicolasduarte.exploraapp.ui.elements.RegisterScreen
+import me.nicolasduarte.exploraapp.ui.elements.AddTouristicPlaceScreen
 
 @Composable
 fun navigationApp() {
@@ -35,7 +39,7 @@ fun navigationApp() {
                 onNavigateToRegister = { myNavController.navigate("register") },
                 onLoginSuccess = {
                     myNavController.navigate("home") {
-                        popUpTo("login") {inclusive = true}             // Para limpiar stack
+                        popUpTo("login") { inclusive = true }             // Para limpiar stack
                     }
                 }
             )
@@ -45,7 +49,7 @@ fun navigationApp() {
                 onNavigateToLogin = { myNavController.navigate("login") },
                 onRegisterSuccess = {
                     myNavController.navigate("home") {
-                        popUpTo("register") {inclusive = true}
+                        popUpTo("register") { inclusive = true }
                     }
                 },
                 onBackClick = { myNavController.popBackStack() }
@@ -53,12 +57,16 @@ fun navigationApp() {
         }
         composable("home") {
             HomeScreen(
+                onClickAddTouristicPlace = {myNavController.navigate("touristicPlaces")},
                 onClickLogout = {
-                    myNavController.navigate("login"){
-                        popUpTo("home") {inclusive = true}
+                    myNavController.navigate("login") {
+                        popUpTo("home") { inclusive = true }
                     }
                 }
             )
+        }
+        composable("touristicPlaces") {
+            AddTouristicPlaceScreen()
         }
     }
 }
